@@ -2,7 +2,7 @@
 
 - 🧑‍💻 **About Me**: Hi, I’m @Jxtern! I like to code and provide open-source solutions for various platforms, whether it's Python projects on Github or Lua scripts on ROBLOX.  
 - 🎯 **Interests**: Gaming, Firefighting, Law Enforcement, and Coding.  
-- 📚 **Currently Learning**: Advanced LUA (game analytics, procedural generation, PathfindingService) and anything else that comes along
+- 📚 **Currently Learning**: Game analytics, Advanced LUA scripting
 - 🤝 **What I Can Assist With**: Need help with projects or games? I specialize in basic script implementations like administrative tools on ROBLOX.  
 - ✉️ **Contact Me**: Feel free to reach out at **josh@multiplayerpiano.net**.  
 <!---
