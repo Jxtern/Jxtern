@@ -1,6 +1,6 @@
 # 🌟 Welcome to My Profile!
 
-- 🧑‍💻 **About Me**: Hi, I’m @Jxtern! I like to code and provide open-source solutions for various platforms, whether it's Python projects on Github or Lua scripts on ROBLOX.  
+- 🧑‍💻 **About Me**: Hi, I’m @Jxtern! I like to code and provide open-source solutions for various platforms, whether it's Python projects on Github or Lua scripts.  
 - 🎯 **Interests**: Gaming, Firefighting, Law Enforcement, and Coding.  
 - 📚 **Currently Learning**: Game analytics, Advanced LUA scripting
 - 🤝 **What I Can Assist With**: Need help with projects or games? I specialize in basic script implementations like administrative tools on ROBLOX.  
